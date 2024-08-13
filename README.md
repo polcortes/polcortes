@@ -1,9 +1,9 @@
 # Hi, I'm Pol! 👋
 I'm a 19yo Junior Frontend Developer. I've been working since 2023 and have experience in a Design Agency and in the development of an ERP. I love CSS, UX and SEO.
-## 🙍‍♂️ Now I'm...
-👩‍💻 Currently working on __Industry Labs__.
+## 👨 About me
+👩‍💻 I'm currently working in __Industry Labs__.
 
-🧠 Currently learning __Node.js__ and __TypeScript__.
+🧠 I'm currently learning __Node.js__ and __TypeScript__.
 
 🤔 If you want to know more about me, you can visit my portfolio:
 
