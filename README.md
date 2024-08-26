@@ -7,7 +7,7 @@ I'm a 19yo Junior Frontend Developer. I've been working since 2023 and have expe
 
 🤔 If you want to know more about me, you can visit my portfolio:
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://pol-cortes.netlify.app/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://polcortes.vercel.app/)
 
 
 📫 You can reach me via LinkedIn: 
